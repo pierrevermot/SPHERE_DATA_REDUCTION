@@ -64,7 +64,7 @@ Due to size limitations, the raw data and resulting files could not be uploaded 
 ### Downloading Data:
 - Data for NGC 1068 can be retrieved from the ESO Archive:
   [ESO Data Retrieval](http://archive.eso.org/cms/eso-data/eso-data-direct-retrieval.html)
-- Follow the folder structure specified in `tree.txt` to get the exact filenames and organize the data correctly.
+- Follow the folder structure specified in `data/tree.txt` to get the exact filenames and organize the data correctly.
 
 ---
 
