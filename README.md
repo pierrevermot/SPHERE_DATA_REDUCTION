@@ -43,9 +43,11 @@ conda activate sphere_env
 ## Usage
 ### Run the Pipeline:
 1. Ensure data is downloaded and organized as described in the [Data Organization](#data-organization) section.
-2. Execute the main script:
+2. If required, edit config/parameters.py
+3. Execute the main script:
 ```
-python scripts/main.py
+cd scripts
+python main.py
 ```
 3. Output files will be stored in the results directory.
 
